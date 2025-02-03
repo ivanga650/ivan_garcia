@@ -1,8 +1,8 @@
 # ivan_garcia Lab 1
 
 ## Table of Contents
- - [Task 2](#task2)
- - [Task 3](#task3)
+ - [Task 2: Brainstorm](#task2)
+ - [Task 3: Do you know agile?](#task3)
 
 ### Task 2: Brainstorm
 Throughout this class you are going to do a large group project. Please write a paragraph that addresses:
@@ -91,5 +91,4 @@ Answer the following questions about agile:
 In a Agile Development Process Story points are a unit of measurement used to estimate effort, and time required to complete a story.
 
 In an ideal world, and ideal case. Story Points can help teams to measure how much work a team can handle in a given time. They are assigned based on factors such as the amount of work, and complexity or potential roadblocks. 
-
 
