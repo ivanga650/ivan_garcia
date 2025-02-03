@@ -1,9 +1,5 @@
 # ivan_garcia Lab 1
 
-## Table of Contents
- - [Task 2: Brainstorm](#task2)
- - [Task 3: Do you know agile?](#task3)
-
 ### Task 2: Brainstorm
 Throughout this class you are going to do a large group project. Please write a paragraph that addresses:
 
